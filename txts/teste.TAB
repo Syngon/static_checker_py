@@ -1,0 +1,16 @@
+
+@@ CODIGO IDENTIFICADOR DA EQUIPE: (EQ05) @@
+@@ ALEX BOANERGES DE SANTANA FERREIRA JUNIOR - alex.junior@aln.senaicimatec.edu.br - (71) 99280-7708 @@
+@@ JOLISAN VINICIUS DE SANTANA SANTOS - jolisan.santos@aln.senaicimatec.edu.br - (71) 98750-8235 @@
+@@ PEDRO MARIANO REIS MONNERAT VIANNA - pedro.vianna@aln.senaicimatec.edu.br - (71) 98129-7852 @@
+@@ VICTOR HUGO FALCAO MARTINS ROCHA - victor.falcao@aln.senaicimatec.edu.br - (71) 99152-8061 @@
+
+
+id, lexeme, token, qnt_antes, qnt_dps, tipo, linhas
+0, JOLI, ID01, 4, 4, VOID, [1]
+1, FUNCTION, ID01, 8, 8, VOID, [2]
+2, SOMAR, ID01, 5, 5, VOID, [2, 3]
+3, 5, ID03, 1, 1, INT, [3, 3]
+4, SOMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA, ID01, 146, 35, VOID, [5]
+5, HELLO, ID01, 5, 5, VOID, [12]
+6, WORLD, ID01, 5, 5, VOID, [12]
